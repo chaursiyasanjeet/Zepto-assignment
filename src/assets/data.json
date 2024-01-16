@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Carla Alonso",
+    "email": "carla.alonso@example.com",
+    "imgLink": "https://randomuser.me/api/portraits/thumb/women/58.jpg"
+  },
+  {
+    "name": "Alexandre Lavoie",
+    "email": "alexandre.lavoie@example.com",
+    "imgLink": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+  },
+  {
+    "name": "Yuvraj Shayana",
+    "email": "yuvraj.shayana@example.com",
+    "imgLink": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+  },
+  {
+    "name": "Akshatha Ramesh",
+    "email": "akshatha.ramesh@example.com",
+    "imgLink": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+  },
+  {
+    "name": "Lisa Bowman",
+    "email": "lisa.bowman@example.com",
+    "imgLink": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
+  },
+  {
+    "name": "Max Rühl",
+    "email": "max.ruhl@example.com",
+    "imgLink": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+  },
+  {
+    "name": "Dwayne Stewart",
+    "email": "dwayne.stewart@example.com",
+    "imgLink": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+  },
+  {
+    "name": "Dylan James",
+    "email": "dylan.james@example.com",
+    "imgLink": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+  },
+  {
+    "name": "Yasemin Kasapoğlu",
+    "email": "yasemin.kasapoglu@example.com",
+    "imgLink": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+  },
+  {
+    "name": "Brayden Carlson",
+    "email": "brayden.carlson@example.com",
+    "imgLink": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+  }
+]

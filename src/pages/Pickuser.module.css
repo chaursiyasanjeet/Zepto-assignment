@@ -1,0 +1,116 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    padding-top: 2vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 7vh;
+}
+
+.title {
+    color: blueviolet
+}
+
+
+.cardAndInputContainer {
+    width: 80%;
+    height: max-content;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1vh;
+    align-items: center;
+    border-bottom: 3px solid blueviolet;
+    padding-bottom: 1vh;
+}
+
+.cardAndInputContainer>input {
+    border: none;
+    outline: none;
+    font-size: 1.5vw;
+    padding-left: 1vh;
+}
+
+
+.details {
+    width: max-content;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    padding-right: 2vh;
+    gap: 1vh;
+    background-color: rgb(159, 182, 182);
+    border-radius: 50px;
+}
+
+.details>img:first-of-type {
+    border-radius: 100%;
+}
+
+.details>img {
+    height: 100%;
+}
+
+.details>span {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.details>img:last-child {
+    padding-left: 1vh;
+    height: 40%;
+    cursor: pointer;
+}
+
+.allDetails {
+    width: max-content;
+    height: 50vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    overflow-y: scroll;
+    display: none;
+    position: relative;
+    bottom: 7vh;
+}
+
+.allDetails>div {
+    margin-top: 1vh;
+    height: 7vh;
+    padding: 1vh 1vw 1vh 1vw;
+    display: flex;
+    align-items: center;
+    gap: 2vh;
+    cursor: pointer;
+}
+
+.allDetails>div:hover {
+    background-color: rgba(142, 148, 148, 0.568);
+}
+
+.allDetails>div>img:first-of-type {
+    border-radius: 100%;
+    height: 100%;
+}
+
+.allDetails>div>span:first-of-type {
+    font-size: 1rem;
+    font-weight: 700;
+    color: black;
+    margin-right: 1vw;
+}
+
+.allDetails>div>span:last-child {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1rem;
+    font-weight: 500;
+    color: rgb(91, 110, 91)
+}
+
+.noResult {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: red;
+    margin: 0 10vw 0 10vw;
+}
